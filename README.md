@@ -1,4 +1,4 @@
-Simple http server on Rust
+Simple http server written in [Rust](http://www.rust-lang.org/)
 ========
 
     rustc index.rc
